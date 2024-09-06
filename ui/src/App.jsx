@@ -36,7 +36,7 @@ function App() {
 
   return (
     <>
-    <button className="ml-6 bg-blue-600 relative top-16   text-white font-bold py-2 px-6 rounded-lg shadow-lg " onClick={connectToMetamask}>
+    <button className="ml-6 bg-blue-600 relative top-14   text-white font-bold py-2 px-6 rounded-lg shadow-lg " onClick={connectToMetamask}>
     Connect to Metamask
 </button>
     <RouterProvider router={router}/>
