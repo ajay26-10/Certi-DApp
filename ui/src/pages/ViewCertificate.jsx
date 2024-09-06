@@ -39,16 +39,16 @@ console.log(certi);
   return (
     <>
       <div className="container mx-auto p-6 bg-gray-100 shadow-xl rounded-xl">
-        <div className="border-4 border-blue-700 p-8 bg-white">
-          <div className="border-2 border-blue-400 p-4 bg-gray-50">
+        <div className="border-4 border-black p-8 bg-white">
+          <div className="border-2 border-yellow-400 p-4 bg-gray-100">
             <div className="text-center">
               <h2 className="text-4xl font-extrabold text-blue-900">Kerala Blockchain Academy</h2>
             </div>
             <div className="mt-8">
               <div className="flex justify-center">
                 <div className="w-3/4 text-center">
-                  <span className="text-2xl font-semibold  text-blue-700">
-                    This is to certify that <span className="text-3xl font-semibold  text-blue-900" id="name">{certi.cname} </span>has completed the
+                  <span className="text-2xl font-semibold  text-black">
+                    This is to certify that <span className="text-3xl font-semibold  text-black" id="name">{certi.cname} </span>has completed the
                   </span>
                 </div>
               </div>
@@ -56,8 +56,8 @@ console.log(certi);
             <div className="mt-4">  
               <div className="flex justify-center">
                 <div className="w-3/4 text-center">
-                  <span className="text-2xl font-semibold  block text-blue-700">
-                    <span className="text-3xl font-semibold  text-blue-900" id="course">{certi.course}&nbsp;</span>offered by <br></br> Kerala Blockchain Academy(KBA) in online mode.
+                  <span className="text-2xl font-semibold  block text-black">
+                    <span className="text-3xl font-semibold  text-black" id="course">{certi.course}&nbsp;</span>offered by <br></br> Kerala Blockchain Academy(KBA) in online mode.
                   </span>
                 </div>
               </div>
@@ -65,9 +65,8 @@ console.log(certi);
             <div className="mt-4">
               <div className="flex justify-center">
                 <div className="w-3/4 text-center">
-                  {/* <span className="text-xl italic text-gray-600">has earned</span> */}
-                  <span className="text-2xl font-bold text-blue-800 block">with&nbsp;
-                     <span className="text-3xl font-semibold  text-blue-900" id="grade">{certi.grade}</span>&nbsp; grade
+                  <span className="text-2xl font-bold text-black block">with&nbsp;
+                     <span className="text-3xl font-semibold  text-black" id="grade">{certi.grade}</span>&nbsp; grade
                   </span>
                 </div>
               </div>
@@ -83,8 +82,8 @@ console.log(certi);
             <div className="mt-4">
               <div className="flex justify-between">
                 <div className="text-left">
-                  <span className="text-xl font-bold text-blue-800">
-                    Certificate ID: <span className="text-3xl font-semibold  text-blue-900" id="certid">{certi.certid}</span>
+                  <span className="text-xl font-bold text-black">
+                    Certificate ID: <span className="text-xl font-semibold  text-black" id="certid">{certi.certid}</span>
                   </span>
                 </div>
                 <div className="text-right">
@@ -97,7 +96,7 @@ console.log(certi);
             </div>
             <div className="mt-8">
               <div className="text-right">
-                <span className="block font-bold text-blue-900">(sd/-)</span>
+                <span className="block font-bold text-blue-900">(Sd/-)</span>
                 <span className="block font-bold text-blue-900">Director</span>
               </div>
             </div>
