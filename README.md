@@ -33,7 +33,7 @@ PRIVATEKEY = your_private_key
 - Production Release
 
 ## 📹 Demo Video  
-<img src="https://github.com/ajay26-10/Certi-DApp/blob/main/Thumbnail.png" width="100" height="50">
+<a href="https://youtu.be/-jIq3u2rLJA?feature=shared"><img src="https://github.com/ajay26-10/Certi-DApp/blob/main/Thumbnail.png" width="100" height="50"></a>
   
 ## ✒️ Contributions  
 Every contribution matters. Every contribution is valuable. The community drives the project forward.  
