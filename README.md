@@ -31,6 +31,9 @@ PRIVATEKEY = your_private_key
 - Mobile View
 - Desktop App
 - Production Release
+
+## 📹 Demo Video  
+[https://youtu.be/-jIq3u2rLJA?si=BXVcDxzANA_UoZBI]
   
 ## ✒️ Contributions  
 Every contribution matters. Every contribution is valuable. The community drives the project forward.  
