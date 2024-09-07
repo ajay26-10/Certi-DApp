@@ -33,7 +33,7 @@ PRIVATEKEY = your_private_key
 - Production Release
 
 ## 📹 Demo Video  
-[https://youtu.be/-jIq3u2rLJA?si=BXVcDxzANA_UoZBI]
+https://youtu.be/-jIq3u2rLJA?si=BXVcDxzANA_UoZBI
   
 ## ✒️ Contributions  
 Every contribution matters. Every contribution is valuable. The community drives the project forward.  
