@@ -45,4 +45,4 @@ Should you have ideas to enhance this, kindly fork the repository and initiate a
 5. Open a Pull Request
   
 ## 📃 License  
-This project is licensed under the MIT license
+This project is licensed under the MIT license- see <a href="https://github.com/ajay26-10/Certi-DApp/blob/main/LICENSE">LICENSE</a> here
